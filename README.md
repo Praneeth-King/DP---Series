@@ -1,1 +1,1 @@
-# DP---Series
+# DP Series
